@@ -110,14 +110,6 @@ $i = 1;
         $i++;
 
 
-          // Test
-          if($i == "5"){
-            echo "Hallo";
-            break;
-            break 2;
-
-          }
-
 
       }
 
