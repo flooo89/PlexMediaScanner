@@ -2,7 +2,8 @@
 
 Schritt 1:
 
-Installiere die Datenbanken aus dem Dump 
+Installiere die Datenbanken aus dem Dump (Datenbank.sql)
+PHPMyAdmin -> Importieren -> Einfügen oder hochladen
 
 Schritt 2:
 
